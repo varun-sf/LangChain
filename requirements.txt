@@ -8,3 +8,9 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+bs4
+chromadb
+faiss-cpu
+arxiv
+wikipedia
+langchainhub
